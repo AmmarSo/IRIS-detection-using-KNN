@@ -3,7 +3,7 @@
 This project demonstrates how to implement the **K-Nearest Neighbors (K-NN)** algorithm **from scratch** using the famous **Iris dataset**.  
 It is designed for beginners who want to understand the core logic behind one of the simplest machine learning algorithms — without using any ML libraries like scikit-learn.
 
-Full Explication on Medium : 
+Full Explication on Medium : https://medium.com/@ammar.souchon/k-nearest-neighbors-explained-from-scratch-a-beginner-friendly-python-guide-using-the-iris-dataset-fbe7ecfd540b
 
 ## 📊 Dataset
 - **Name**: Iris Flower Dataset  
