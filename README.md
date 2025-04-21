@@ -35,9 +35,3 @@ It’s a great way to build strong intuition before using advanced libraries lik
 
 - Python 3.x  
 - pandas  
-- matplotlib (for plotting optional visuals like loss curves or distance graphs)
-
-Install the required libraries with:
-
-```bash
-pip install pandas matplotlib
